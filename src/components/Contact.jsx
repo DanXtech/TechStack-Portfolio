@@ -34,12 +34,12 @@ const Contact = () => {
                     Contact <span className="text-primary animate-pulse group-hover:scale-105 duration-200">Me</span>
                 </h1>
                 <ul className="flex flex-col gap-3">
-                    <li className="text-white">
-                        <span>Email</span>
+                    <li className="text-white text-3xl">
+                        <span className="pr-2">Email</span>:
                         <span>adetoyedaniel2023@gmail.com</span>
                     </li>
-                    <li className="text-white">
-                        <span>Whatsapp Number</span>
+                    <li className="text-white text-3xl">
+                        <span className="pr-2">Whatsapp Number</span>: 
                         <span>08125021612</span>
                     </li>
                     
