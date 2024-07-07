@@ -33,7 +33,18 @@ const Contact = () => {
                 >
                     Contact <span className="text-primary animate-pulse group-hover:scale-105 duration-200">Me</span>
                 </h1>
-                <form ref={form} onSubmit={sendEmail}>
+                <ul className="flex flex-col gap-3">
+                    <li className="text-white">
+                        <span>Email</span>
+                        <span>adetoyedaniel2023@gmail.com</span>
+                    </li>
+                    <li className="text-white">
+                        <span>Whatsapp Number</span>
+                        <span>08125021612</span>
+                    </li>
+                    
+                </ul>
+{/*                 <form ref={form} onSubmit={sendEmail}>
                     <div className="grid grid-cols-1  lg:grid-cols-2 gap-4">
 
 
@@ -72,7 +83,7 @@ const Contact = () => {
 
                         <span>{done && "Thanks for contacting me. I will give you the feedback"}</span>
                     </div>
-                </form>
+                </form> */}
             </div>
 
         </div>
