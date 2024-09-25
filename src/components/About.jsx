@@ -29,7 +29,7 @@ const About = () => {
                                 LIKE TO KNOW ABOUT ME
                             </h1>
                             <p data-aos="fade-up" data-aos-delay="500" >
-                                A Compuer Science Student at <span className="text-[#008000] font-bold">Ladoke Akintola University of Technology Ogbomoso, Oyo State of Nigeria</span> .  A self-taught frontend web developer looking for an opportunity in web development. The mindset to fulfill life with wonderful memories and knowledge. I deal with any kind of project as a frontend developer with my Skills.
+                                A Computer Science with B.s.c.  A self-taught  Software developer looking for an opportunity in web development. The mindset to fulfill life with wonderful memories and knowledge. I deal with any kind of project as a frontend developer with my Skills.
                             </p>
 
                         </div>
